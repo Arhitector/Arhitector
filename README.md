@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my page!
-- 📍  I'm Nick, Front-end/Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> Ukraine, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Spain.
+- 📍  I'm Nick, Front-end/Fullstack developer.
 - 💻 10+ Years Experience in Front-end Development
 
 
