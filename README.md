@@ -2,7 +2,7 @@
 
 Welcome to my page!
 - 📍  I'm Nick, Front-end/Fullstack developer.
-- 💻 10+ Years Experience in Front-end Development
+- 💻 15+ Years Experience in Front-end Development
 
 
 ### 🤝 Connect with me:
