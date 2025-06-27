@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Welcome to my page!
-- 📍  I'm Nick, Front-end/Fullstack developer.
-- 💻 15+ Years Experience in Front-end Development
+- 📍  I'm Mike, software engineer.
+- 💻 18+ Years Experience in Front-end Development
 
 
 ### 🤝 Connect with me:
